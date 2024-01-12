@@ -1,0 +1,18 @@
+{
+  "name": "dts-from-xsd-esdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cxsd": "cxsd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cxsd": "^0.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
